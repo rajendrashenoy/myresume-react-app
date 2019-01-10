@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rajendrashenoy/myresume-react-app/precache-manifest.55b20a9a986c91196d83e4b85dc7981d.js"
+  "/myresume-react-app/precache-manifest.2048cb9fc640bcd099e85baab3f602ae.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/rajendrashenoy/myresume-react-app/index.html", {
+workbox.routing.registerNavigationRoute("/myresume-react-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
