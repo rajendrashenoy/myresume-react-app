@@ -22,7 +22,7 @@ class ProjectManagerResume extends Component {
     return (
     		//<input type="submit" id={resumetype.id} value={ resumetype.type} onClick={this.handleChange}/>   
         //<input type="submit" id={resumetype.id} value={ resumetype.type} onClick={this.handleChange}/>
-        <p style={{color: 'blue'}}>My Project Manager Resume is under construction....</p> 
+        <p style={{color: 'blue'}}>My Project Management Resume is under construction....</p> 
     );
 
   }

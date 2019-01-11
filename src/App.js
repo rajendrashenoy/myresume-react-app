@@ -6,7 +6,7 @@ import ResumeTypes from './components/ResumeTypes';
 import FullStackResume from './components/FullStackResume';
 import ProjectManagerResume from './components/ProjectManagerResume';
 import DevOpsResume from './components/DevOpsResume';
-import QualityAssuranceResume from './components/QualityAssuranceResume';
+import ConsultancyResume from './components/ConsultancyResume';
 
 import './App.css';
 
@@ -25,7 +25,7 @@ class App extends Component {
       },
       {
       	id: 2,
-      	type: 'Project Management'
+      	type: 'Consultancy'
       },
       {
       	id: 3,
@@ -33,7 +33,7 @@ class App extends Component {
       },
       {
       	id: 4,
-      	type: 'Quality Assurance'
+      	type: 'Project Management'
       }
     ],
     selectedResumetype: 0,      
@@ -90,7 +90,7 @@ class App extends Component {
         </header>
 
         <h2 className="App-resume">
-        <ProjectManagerResume />
+        <ConsultancyResume />
         </h2>
       </div>
     );
@@ -137,7 +137,7 @@ class App extends Component {
         </header>
 
         <h2 className="App-resume">
-        <QualityAssuranceResume />
+        <ProjectManagerResume />
         </h2>
 
       </div>

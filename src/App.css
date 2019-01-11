@@ -33,9 +33,25 @@
   color: white;
 }
 
-.App-resume-profile-section {
+.App-resume-timeline {
+  background-color: lightgrey;
+  font-size: calc(10px + 0.5vmin);
+  font-weight: bold;
+  text-align: left;
+  color: black;
+}
+
+.App-resume-jobdescription {
   font-size: calc(12px + 0.5vmin);
   text-align: left;
+  font-weight: bold;
+  color: black;
+}
+
+.App-resume-section {
+  font-size: calc(12px + 0.5vmin);
+  font-weight: normal;
+  text-align: justify;
   color: black;
 }
 

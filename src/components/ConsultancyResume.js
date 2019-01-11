@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 
-class QualityAssuranceResume extends Component {
+class ConsultancyResume extends Component {
 
   constructor(props) {
   	super(props);
@@ -22,10 +22,10 @@ class QualityAssuranceResume extends Component {
     return (
     		//<input type="submit" id={resumetype.id} value={ resumetype.type} onClick={this.handleChange}/>   
         //<input type="submit" id={resumetype.id} value={ resumetype.type} onClick={this.handleChange}/>
-        <p style={{color: 'green'}}>My Quality Assurance Resume is under construction...</p> 
+        <p style={{color: 'green'}}>My Consultancy Resume is under construction...</p> 
     );
 
   }
 }
 
-export default QualityAssuranceResume;
+export default ConsultancyResume;

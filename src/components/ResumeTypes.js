@@ -22,7 +22,7 @@ class ResumeTypes extends Component {
     return this.props.resumetypes.map((resumetype, selectedtype) => (
     		//<input type="submit" id={resumetype.id} value={ resumetype.type} onClick={this.handleChange}/>   
         //<input type="submit" id={resumetype.id} value={ resumetype.type} onClick={this.handleChange}/>
-        <input type="button" style={{width: '25%'}} id={resumetype.id} key={resumetype.id} value={ resumetype.type} onClick={this.props.selectedtype.bind(this, resumetype.id)}/>		
+        <input type="button" style={{width: '25%', border: "none"}} id={resumetype.id} key={resumetype.id} value={ resumetype.type} onClick={this.props.selectedtype.bind(this, resumetype.id)}/>		
     ));
 
   }
