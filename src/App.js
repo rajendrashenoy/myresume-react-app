@@ -57,7 +57,7 @@ class App extends Component {
         <header className="App-header">
           <img src={photo} alt="" />
           <h2> {"Welcome to Raj Shenoy's Home Page"} </h2>
-          <p>{"Powered by React.js"}</p>
+          <h7 className="App-copy">{"Powered by React.js"}</h7>
         </header>
 
         <header className="App-menu">
@@ -81,7 +81,7 @@ class App extends Component {
         <header className="App-header">
           <img src={photo} alt="" />
           <h4> {"Welcome to Raj Shenoy's Home Page"} </h4>
-          <p>{"Powered by React.js"}</p>
+          <h7 className="App-copy">{"Powered by React.js"}</h7>
         </header>
         
 
@@ -105,7 +105,7 @@ class App extends Component {
         <header className="App-header">
           <img src={photo} alt="" />
           <h2> {"Welcome to Raj Shenoy's Home Page"} </h2>
-          <p>{"Powered by React.js"}</p>
+          <h7 className="App-copy">{"Powered by React.js"}</h7>
         </header>
 
         <header className="App-menu">
@@ -129,7 +129,7 @@ class App extends Component {
         <header className="App-header">
           <img src={photo} alt="" />
           <h2> {"Welcome to Raj Shenoy's Home Page"} </h2>
-          <p>{"Powered by React.js"}</p>
+          <h7 className="App-copy">{"Powered by React.js"}</h7>
         </header>
 
         <header className="App-menu">
@@ -152,7 +152,7 @@ class App extends Component {
         <header className="App-header">
           <img src={photo} alt="" />
           <h2> {"Welcome to Raj Shenoy's Home Page"} </h2>
-          <i>{"Powered by React.js"}</i>
+          <h7 className="App-copy">{"Powered by React.js"}</h7>
         </header>
 
         <header className="App-menu">
