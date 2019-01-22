@@ -36,7 +36,7 @@ class FullStackResume extends Component {
         organization’s business vision and strategic goals.
         </p> 
 
-        <p className="App-resume-header">Experience</p> 
+        <p className="App-resume-header">Fukk Stack Developement Experience</p> 
 
         <p className="App-resume-timeline">JUNE 2010 – PRESENT</p> 
         <p className="App-resume-jobdescription">SENIOR APPLICATIONS CONSULTANT, <i> STEFANINI CANADA LTD.</i> </p> 
@@ -44,7 +44,7 @@ class FullStackResume extends Component {
 
         <p className="App-resume-section">
           <ul>  
-            <li>Develops end to end web applications for a wide range of Stefanini clients 
+            <li>Develops end to end web applications for a various Stefanini clients 
             leveraging React/Jquery/dodjo/dijit Libraries, Angular/Vue frameworks, and 
             MEAN/Java/J2EE/.NET stacks.
           </li>
@@ -53,11 +53,11 @@ class FullStackResume extends Component {
             Angular, Jquery, Dojo, Dijit, React, and Vue frameworks/libraries.
             </li>
 
-            <li>Provides technical consultancy and support to a wide range of Stefanini clients 
+            <li>Provides technical consultancy and support to a Stefanini clientale 
             in the areas of UI/UX, Mobility, and Digital Transformation.
             </li>
 
-            <li>Provides technical consultancy to a wide range of Stefanini clients 
+            <li>Provides technical consultancy to a number of Stefanini clients 
             in the areas of UI/UX, Mobility, and Digital Transformation.
             </li>
 
@@ -75,7 +75,7 @@ class FullStackResume extends Component {
           </ul>
         </p> 
 
-        <p className="App-resume-timeline">OCOTBER 2008 – DECEMBER 2010</p> 
+        <p className="App-resume-timeline">OCOTBER 2008 – DECEMBER 2009</p> 
         <p className="App-resume-jobdescription">LEAD TECHNICAL CONSULTANT, <i> BELGACOM BRUSSELS.</i> </p> 
         <p className="App-resume-section">
           <ul>  
@@ -108,7 +108,7 @@ class FullStackResume extends Component {
         <p className="App-resume-jobdescription">SENIOR PROGRAMMER,<i> BMW GROUP, GERMANY.</i> </p> 
         <p className="App-resume-section">
           <ul>  
-            <li>Designed and developed BMW’s CRM system for countries England, Italy, Japan, 
+            <li>Designed and developed BMW’s CRM system for England, Italy, Japan, 
             and Spain.
             </li>
           </ul>
@@ -120,7 +120,7 @@ class FullStackResume extends Component {
           <ul>  
             <li>Developed O2 Germany’s web based self-care program.
             </li>
-            <li>Developed O2 Germany’s Retail customer database (CDB).
+            <li>Developed O2 Germany’s Retail Customer DataBase (CDB).
             </li>
           </ul>
         </p>
@@ -153,8 +153,8 @@ class FullStackResume extends Component {
             </li>
             <li>ASP/BASIC/C/C#/C++/Java/Java Script(JS)/Perl/PHP/Python/SQL
             </li>
-            <li>Angular/Ajax/Express/J2EE(JSF, Servlet, JSP,EJB)/ 
-            Jquery/Hibernate/MVC/Node/ React/Vue/Rails/Spring/WCF/WPF/ .NET/
+            <li>Angular/Ajax/Express/J2EE(JSF,Servlet,JSP,EJB)/ 
+            Jquery/Hibernate/MVC/Node/React/Vue/Rails/Spring/WCF/WPF/.NET/
             </li>
             <li>Weblogic server/Appache Tomcat
             </li>
@@ -180,6 +180,8 @@ class FullStackResume extends Component {
         <p className="App-resume-header">Education</p> 
         <p className="App-resume-timeline">JUNE 1996</p> 
         <p className="App-resume-jobdescription">M.S PHYSICS, <i> INDIAN INSTITUTE OF TECHNOLOGY, MADRAS INDIA.</i> </p> 
+        <p className="App-resume-timeline">JUNE 1991</p> 
+        <p className="App-resume-jobdescription">B.Sc PHYSICS, <i> Mahatma Gandhi University, Kottayam, INDIA.</i> </p> 
 
         </h2>
     );
