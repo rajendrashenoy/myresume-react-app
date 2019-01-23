@@ -8,8 +8,6 @@ import ProjectManagerResume from './components/ProjectManagerResume';
 import DevOpsResume from './components/DevOpsResume';
 import ConsultancyResume from './components/ConsultancyResume';
 
-import './App.css';
-
 class App extends Component {
 
   constructor(props) {

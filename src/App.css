@@ -58,6 +58,14 @@
   color: black;
 }
 
+.App-Button-Default {
+  background: lightgrey;
+}
+
+.App-Button-Active {
+  background: grey;
+}
+
 .App-link {
   color: #61dafb;
 }
